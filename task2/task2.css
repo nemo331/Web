@@ -29,12 +29,10 @@
 }
 
 .card .favorite{
+    text-underline-offset: 20px;
     text-align: right;
 }
 
-.card .favorite{
-    text-decoration: none;
-}
 
 .card img{
     width: 100%;
