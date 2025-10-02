@@ -62,7 +62,7 @@ button{
 }
 .hero{
     height: 981px;
-    background: url(../images/hero.png);
+    background: url(hero.png);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -332,4 +332,5 @@ footer{
     .card-date-day{
         font-size: 20px;
     }
+
 }
